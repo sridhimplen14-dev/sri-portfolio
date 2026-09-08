@@ -55,3 +55,4 @@ Any static host works with the Vite build output in `dist/`:
 - Tailwind CSS 4
 - Framer Motion
 - Lucide React + Simple Icons
+# sri-portfolio
